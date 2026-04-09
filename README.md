@@ -1,0 +1,1 @@
+This case study presents the complete design, implementation, and analysis of the PU_SmartMart Retail Analytics Database using MySQL. As the Business Data Analyst assigned to this project, the objective was to architect a normalized relational database that enables real-time insights into sales performance, customer behavior, inventory health, and revenue trends.
